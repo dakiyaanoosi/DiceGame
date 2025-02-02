@@ -5,7 +5,6 @@ public class DiceWithRoundsManual
 {
     String [][] graphics =
     {
-        // Storing Graphics in the form of 6 lines abd will later print these 6 lines using a loop
         {
            "___________",
            "|         |",
